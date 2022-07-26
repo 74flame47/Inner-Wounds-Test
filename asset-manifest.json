@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.486126bb.chunk.css",
+    "main.js": "/static/js/main.22ec3f58.chunk.js",
+    "main.js.map": "/static/js/main.22ec3f58.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/js/2.e25ec9c6.chunk.js": "/static/js/2.e25ec9c6.chunk.js",
+    "static/js/2.e25ec9c6.chunk.js.map": "/static/js/2.e25ec9c6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3ee1eebe2448ae427a32e21175fad8ed.js": "/precache-manifest.3ee1eebe2448ae427a32e21175fad8ed.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.486126bb.chunk.css.map": "/static/css/main.486126bb.chunk.css.map",
+    "static/js/2.e25ec9c6.chunk.js.LICENSE.txt": "/static/js/2.e25ec9c6.chunk.js.LICENSE.txt",
+    "static/media/-point.png": "/static/media/-point.f33b65b3.png",
+    "static/media/index.css": "/static/media/Poppins-Regular.8b6af8e5.ttf",
+    "static/media/animation_1.gif": "/static/media/animation_1.66e249f9.gif",
+    "static/media/animation_2-.gif": "/static/media/animation_2-.c74ea7c7.gif",
+    "static/media/animation_2.gif": "/static/media/animation_2.af15b9c6.gif",
+    "static/media/animation_3.gif": "/static/media/animation_3.acd4e4f9.gif",
+    "static/media/animation_4.gif": "/static/media/animation_4.201ffa79.gif",
+    "static/media/animation_6.gif": "/static/media/animation_6.d4a5df91.gif",
+    "static/media/bill-board2.png": "/static/media/bill-board2.8164c306.png",
+    "static/media/done.gif": "/static/media/done.3cc669b9.gif",
+    "static/media/dsa.PNG": "/static/media/dsa.3e00eee9.PNG",
+    "static/media/home-copy.png": "/static/media/home-copy.df7a76f7.png",
+    "static/media/home.png": "/static/media/home.b6b2035d.png",
+    "static/media/img0.png": "/static/media/img0.a324665f.png",
+    "static/media/img2.png": "/static/media/img2.066f1f78.png",
+    "static/media/img3.png": "/static/media/img3.b99956d0.png",
+    "static/media/logo_.png": "/static/media/logo_.a99c3da9.png",
+    "static/media/site_.png": "/static/media/site_.d1c0771a.png",
+    "static/media/tree_.png": "/static/media/tree_.6a3f0114.png",
+    "static/media/vid_placeholder.png": "/static/media/vid_placeholder.cdbeb883.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/2.e25ec9c6.chunk.js",
+    "static/css/main.486126bb.chunk.css",
+    "static/js/main.22ec3f58.chunk.js"
+  ]
+}
